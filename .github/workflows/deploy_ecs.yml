@@ -7,7 +7,7 @@ on:
 
 env:
   AWS_REGION: eu-north-1
-  ECR_REPOSITORY: demo-repo
+  ECR_REPOSITORY: demo_repo
 
 jobs:
   deploy-to-ecs:
